@@ -14,4 +14,4 @@ def login_twitter
 end
 
 
-#client.update('Mon premier tweet en Ruby !!!!')
+login_twitter.update('Mon premier tweet en Ruby !!!!')

@@ -63,8 +63,8 @@ def send_email
 end
 
 
-follow_twitter(10)
-#favorite(5)
+#follow_twitter(10)
+favorite(5)
 
 
 #client.update('Mon premier tweet en Ruby !!!!')
